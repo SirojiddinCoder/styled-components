@@ -1,8 +1,12 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  font-size:50px;
-  text-align: center;
-  color: palevioletred;
-  background-color:red;
+ display:flex;
+ justify-content:center;
+ aligin-items:center;
+ background-color:red;
+ width:100%;
+ height:100vh;
+ color:white;
+
 `;

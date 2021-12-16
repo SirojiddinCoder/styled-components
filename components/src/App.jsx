@@ -8,8 +8,6 @@ import { Container } from './style';
     <Container>
     <Login/>
     <Register/>
-
-
     </Container>
   )
 }
